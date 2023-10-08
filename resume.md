@@ -4,7 +4,7 @@
 @PHONE=1121644198
 @LOCATION=San Nicolás, CABA
 @WEBSITE=linkedin.com/in/federicoamigo
-@GITHUB=github.com/tuusuario
+@GITHUB=github.com/federicoamigo17
 
 # {NAME}
 
@@ -13,15 +13,23 @@
 - [federicoamigo17@gmail.com](mailto:federicoamigo17@gmail.com)
 - {PHONE}
 - [LinkedIn](https://linkedin.com/in/federicoamigo)
-- [GitHub](https://github.com/tuusuario)
+- [GitHub](https://github.com/federicoamigo17)
 - {LOCATION}
 
 </div>
 
+## PERFIL PROFESIONAL
+
+Estudiante de Ingenieria en Sistemas, en proceso de formacion como Data Engineer. 
+
 ## Formación Académica
 
-- **Ingeniería en Sistemas de Información, Universidad Tecnológica Nacional FRBA** <span class="spacer"></span> 2022 &mdash; Actualidad
--  14/40 materias aprobadas.
+### Ingeniería en Sistemas de Información <span class="spacer"></span> 2022 &mdash; Actualidad  
+
+
+- Universidad Tecnológica Nacional FRBA <br>
+  14/40 materias aprobadas.
+
 
 ## Habilidades
 
@@ -43,11 +51,20 @@
 - Introduction to Linux Commands and Shell Scripting
 - ETL and Data Pipelines with Shell, Airflow and Kafka (en proceso)
 
+Todos los cursos forman parte del Certificado profesional de IBM Data Engineering y pueden ser verificados en mi Linkedin
+
 ## Proyectos Actuales
 
 ### [Nombre de tu proyecto]
 
 - Breve descripción del proyecto.
+
+## Voluntariado
+
+### Desarrollador de React <br> Grupo de Investigación y Desarrollo en BIO Ingeniería<span class="spacer"></span> Marzo 2023 — Actualidad
+
+- Contribuciones al desarrollo y testing de páginas web para la facultad (UTN).
+
 
 ## Experiencia
 
@@ -58,9 +75,4 @@
 - Implementación y mantenimiento de redes de fibra óptica (FTTH).
 - Instalaciones eléctricas en domicilios.
 
-## Voluntariado
 
-### Desarrollador, Grupo de Investigación y Desarrollo en BIO Ingeniería <span class="spacer"></span> Marzo 2023 — Actualidad
-
-- Contribuciones al desarrollo de páginas web para la facultad (UTN).
-- Testing y mejora de la funcionalidad d
