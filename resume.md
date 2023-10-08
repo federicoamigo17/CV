@@ -20,7 +20,7 @@
 
 ## PERFIL PROFESIONAL
 
-Estudiante de Ingenieria en Sistemas, en proceso de formacion como Data Engineer. 
+Soy estudiante de Ingeniería en Sistemas de Información en la UTN, enfocado en el desarrollo en el ámbito de la ingeniería de datos. Poseo habilidades sólidas en Python, incluyendo bibliotecas como Pandas, NumPy y Matplotlib, y experiencia en Web Scraping y el manejo de APIs. Además, cuento con habilidades en SQL, así como en el uso de herramientas como PowerBI y Excel. También cuento con experiencia en desarrollo web utilizando CSS, HTML y JavaScript (React.js). Estoy activamente en búsqueda de oportunidades que me permitan aplicar y seguir ampliando estos conocimientos.
 
 ## Formación Académica
 
