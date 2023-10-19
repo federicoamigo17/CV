@@ -18,9 +18,9 @@
 
 </div>
 
-## PERFIL PROFESIONAL
+## PERFIL PROFESIONAL - DATA DEVELOPER
 
-Soy estudiante de Ingeniería en Sistemas de Información en la UTN, enfocado en el desarrollo en el ámbito de la ingeniería de datos. Poseo habilidades sólidas en Python, incluyendo bibliotecas como Pandas, NumPy y Matplotlib, y experiencia en Web Scraping y el manejo de APIs. Además, cuento con habilidades en SQL, así como en el uso de herramientas como PowerBI y Excel. También cuento con experiencia en desarrollo web utilizando CSS, HTML y JavaScript (React.js). Estoy activamente en búsqueda de oportunidades que me permitan aplicar y seguir ampliando estos conocimientos.
+Soy estudiante de Ingeniería en Sistemas de Información en UTN FRBA, enfocado en el desarrollo de datos. Poseo habilidades sólidas en Python, con experiencia en SQL, PowerBI y Excel. Mi experiencia como Técnico en Telecomunicaciones y becario en un proyecto de investigación en ReactJS respalda mi capacidad para abordar desafíos técnicos. Activamente en busca de oportunidades que me permitan aplicar y ampliar mis conocimientos.
 
 ## Formación Académica
 
@@ -29,42 +29,6 @@ Soy estudiante de Ingeniería en Sistemas de Información en la UTN, enfocado en
 
 - Universidad Tecnológica Nacional FRBA <br>
   14/40 materias aprobadas.
-
-
-## Habilidades
-
-- **Python:** Pandas, NumPy, Matplotlib, Webscraping (HTML, BeautifulSoup), APIs (Requests)
-- **SQL:** MySQL, PostgreSQL
-- **Herramientas:** PowerBI, Excel
-- **Inglés:** Nivel B1 - PET
-- **GitHub, GitLab**
-- **Desarrollo web:** CSS, HTML, JavaScript (React.js)
-
-
-
-## Cursos Relevantes
-
-- Introduction to Data Engineering
-- Introduction to Relational Databases (RDBMS)
-- Databases and SQL for Data Science with Python
-- Python for Data Science, AI & Development
-- Introduction to Linux Commands and Shell Scripting
-- ETL and Data Pipelines with Shell, Airflow and Kafka (en proceso)
-
-Todos los cursos forman parte del Certificado profesional de IBM Data Engineering y pueden ser verificados en mi Linkedin
-
-## Proyectos Actuales
-
-### [Nombre de tu proyecto]
-
-- Breve descripción del proyecto.
-
-## Voluntariado
-
-### Desarrollador de React <br> Grupo de Investigación y Desarrollo en BIO Ingeniería<span class="spacer"></span> Marzo 2023 — Actualidad
-
-- Contribuciones al desarrollo y testing de páginas web para la facultad (UTN).
-
 
 ## Experiencia
 
@@ -75,4 +39,30 @@ Todos los cursos forman parte del Certificado profesional de IBM Data Engineerin
 - Implementación y mantenimiento de redes de fibra óptica (FTTH).
 - Instalaciones eléctricas en domicilios.
 
+## Habilidades
 
+- Bases de datos: Administracion, mantenimiento y optimizacion de bases de datos con MySQL y PostgresSQL.
+
+- Python: Manipulacion de bases de datos, analisis y automatizacion de procesos.
+
+- Orquestado de pipelines con Airflow.
+
+- Familiaridad con ambientes en Linux y scripts en bash.
+
+- Uso de Github y GitLab.
+
+## Cursos Relevantes
+
+- [Introduction to Data Engineering](https://coursera.org/share/394be96fc631863522bb66d7fd24fb6d)
+- [Introduction to Relational Databases (RDBMS)](https://coursera.org/share/2dbe8e0f11bc5a7586b9e7f389fd000d)
+- [Databases and SQL for Data Science with Python](https://coursera.org/share/806303f6f7e03980c997d4df66eb5e8f)
+- [Python for Data Science, AI & Development](https://coursera.org/share/13c61333c0f88ea52108695349c2f6dc)
+- [Python Project for Data Engineering](https://coursera.org/share/900a384a8668f42312efe6a9d69e0821)
+- [Introduction to Linux Commands and Shell Scripting](https://coursera.org/share/16a1742193fb879fc6089df48f6d2f0b)
+- ETL and Data Pipelines with Shell, Airflow and Kafka (en proceso)
+
+## Voluntariado
+
+### Desarrollador de React <br> Grupo de Investigación y Desarrollo en BIO Ingeniería<span class="spacer"></span> Marzo 2023 — Actualidad
+
+- Contribuciones al desarrollo y testing de páginas web para los estudiantes del doctorado en UTN.
