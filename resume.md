@@ -8,6 +8,12 @@
 
 # {NAME}
 
+<br>
+
+<h1 class="subtitle" >Data Developer</h1>
+
+<br>
+
 <div class="section headerInfo">
 
 - [federicoamigo17@gmail.com](mailto:federicoamigo17@gmail.com)
@@ -15,20 +21,24 @@
 - [LinkedIn](https://linkedin.com/in/federicoamigo)
 - [GitHub](https://github.com/federicoamigo17)
 - {LOCATION}
-
 </div>
 
-## PERFIL PROFESIONAL - DATA DEVELOPER
+<br>
+
+## PERFIL PROFESIONAL
 
 Soy estudiante de Ingeniería en Sistemas de Información en UTN FRBA, enfocado en el desarrollo de datos. Poseo habilidades sólidas en Python, con experiencia en SQL, PowerBI y Excel. Mi experiencia como Técnico en Telecomunicaciones y becario en un proyecto de investigación en ReactJS respalda mi capacidad para abordar desafíos técnicos. Activamente en busca de oportunidades que me permitan aplicar y ampliar mis conocimientos.
 
+<br>
+
 ## Formación Académica
 
-### Ingeniería en Sistemas de Información <span class="spacer"></span> 2022 &mdash; Actualidad  
+### Ingeniería en Sistemas de Información <span class="spacer"></span> 2022 &mdash; 2027
 
 
 - Universidad Tecnológica Nacional FRBA <br>
-  14/40 materias aprobadas.
+
+<br>
 
 ## Experiencia
 
@@ -39,9 +49,11 @@ Soy estudiante de Ingeniería en Sistemas de Información en UTN FRBA, enfocado 
 - Implementación y mantenimiento de redes de fibra óptica (FTTH).
 - Instalaciones eléctricas en domicilios.
 
+<br>
+
 ## Habilidades
 
-- Bases de datos: Administracion, mantenimiento y optimizacion de bases de datos con MySQL y PostgresSQL.
+- Bases de datos: Administracion, mantenimiento y optimizacion con MySQL y PostgresSQL.
 
 - Python: Manipulacion de bases de datos, analisis y automatizacion de procesos.
 
@@ -50,6 +62,8 @@ Soy estudiante de Ingeniería en Sistemas de Información en UTN FRBA, enfocado 
 - Familiaridad con ambientes en Linux y scripts en bash.
 
 - Uso de Github y GitLab.
+
+<br>
 
 ## Cursos Relevantes
 
@@ -60,6 +74,8 @@ Soy estudiante de Ingeniería en Sistemas de Información en UTN FRBA, enfocado 
 - [Python Project for Data Engineering](https://coursera.org/share/900a384a8668f42312efe6a9d69e0821)
 - [Introduction to Linux Commands and Shell Scripting](https://coursera.org/share/16a1742193fb879fc6089df48f6d2f0b)
 - ETL and Data Pipelines with Shell, Airflow and Kafka (en proceso)
+
+<br>
 
 ## Voluntariado
 
