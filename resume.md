@@ -42,7 +42,7 @@ Soy estudiante de Ingeniería en Sistemas de Información en UTN FRBA, enfocado 
 
 ## Experiencia
 
-### Técnico en Telecomunicaciones, CTeAr SA <span class="spacer"></span> Oct 2021 &mdash; Mar 2023
+### Técnico en Telecomunicaciones, CTeAr SA <span class="spacer"></span> Oct 2021 &mdash; Ago 2022
 
 - Administración y configuración de redes y dispositivos como Mikrotik, routers y switches.
 - Instalación y mantenimiento de sistemas de seguridad, cámaras IP, cámaras térmicas, sensores de movimiento y alarmas.
