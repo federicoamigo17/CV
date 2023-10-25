@@ -25,47 +25,45 @@
 
 <br>
 
-## PERFIL PROFESIONAL
+## PROFESSIONAL PROFILE
 
-Soy estudiante de Ingeniería en Sistemas de Información en UTN FRBA, enfocado en el desarrollo de datos. Poseo habilidades sólidas en Python, con experiencia en SQL, PowerBI y Excel. Mi experiencia como Técnico en Telecomunicaciones y becario en un proyecto de investigación en ReactJS respalda mi capacidad para abordar desafíos técnicos. Activamente en busca de oportunidades que me permitan aplicar y ampliar mis conocimientos.
+I am a student of Information Systems Engineering at UTN FRBA, focusing on data development. I possess
+strong skills in Python, with experience in SQL, PowerBI, and Excel. My background as a
+Telecommunications Technician and my role as a research project intern in ReactJS demonstrate my ability
+to tackle technical challenges. I am actively seeking opportunities to apply and expand my knowledge.
 
 <br>
 
-## Formación Académica
+## Education
 
-### Ingeniería en Sistemas de Información <span class="spacer"></span> 2022 &mdash; 2027
-
+### Information Systems Engineering <span class="spacer"></span> 2022 &mdash; 2027
 
 - Universidad Tecnológica Nacional FRBA <br>
 
 <br>
 
-## Experiencia
+## Experience
 
-### Técnico en Telecomunicaciones, CTeAr SA <span class="spacer"></span> Oct 2021 &mdash; Ago 2022
+### Telecommunications Technician, CTeAr SA <span class="spacer"></span> Oct 2021 &mdash; Aug 2022
 
-- Administración y configuración de redes y dispositivos como Mikrotik, routers y switches.
-- Instalación y mantenimiento de sistemas de seguridad, cámaras IP, cámaras térmicas, sensores de movimiento y alarmas.
-- Implementación y mantenimiento de redes de fibra óptica (FTTH).
-- Instalaciones eléctricas en domicilios.
-
-<br>
-
-## Habilidades
-
-- Bases de datos: Administracion, mantenimiento y optimizacion con MySQL y PostgresSQL.
-
-- Python: Manipulacion de bases de datos, analisis y automatizacion de procesos.
-
-- Orquestado de pipelines con Airflow.
-
-- Familiaridad con ambientes en Linux y scripts en bash.
-
-- Uso de Github y GitLab.
+- Network and device administration, including Mikrotik, routers, and switches.
+- Installation and maintenance of security systems, IP cameras, thermal cameras, motion sensors, and alarms.
+- Implementation and maintenance of fiber optic networks (FTTH).
+- Electrical installations in residential buildings.
 
 <br>
 
-## Cursos Relevantes
+## Skills
+
+- Database: Administration, maintenance, and optimization with MySQL and PostgresSQL
+- Python: Data manipulation, analysis, and process automation.
+- Orchestrating pipelines with Airflow.
+- Familiarity with Linux environments and bash scripting.
+- Proficient use of Github and GitLab.
+
+<br>
+
+## Relevant Courses
 
 - [Databases and SQL for Data Science with Python](https://coursera.org/share/806303f6f7e03980c997d4df66eb5e8f)
 - [Relational Database Administration (DBA)](https://coursera.org/share/b0cf37142b6394b921d9f2e4d198625d)
@@ -74,13 +72,12 @@ Soy estudiante de Ingeniería en Sistemas de Información en UTN FRBA, enfocado 
 - [Introduction to Linux Commands and Shell Scripting](https://coursera.org/share/16a1742193fb879fc6089df48f6d2f0b)
 - [Introduction to Data Engineering](https://coursera.org/share/394be96fc631863522bb66d7fd24fb6d)
 - [Introduction to Relational Databases (RDBMS)](https://coursera.org/share/2dbe8e0f11bc5a7586b9e7f389fd000d)
-- ETL and Data Pipelines with Shell, Airflow and Kafka (en proceso)
-
+- ETL and Data Pipelines with Shell, Airflow, and Kafka (in progress)
 
 <br>
 
-## Voluntariado
+## Volunteering
 
-### Desarrollador de React <br> Grupo de Investigación y Desarrollo en BIO Ingeniería<span class="spacer"></span> Marzo 2023 — Actualidad
+### React Developer <br> Grupo de Investigación y Desarrollo en BIO Ingeniería<span class="spacer"></span> Mar 2023 — Present
 
-- Contribuciones al desarrollo y testing de páginas web para los estudiantes del doctorado en UTN.
+- Contributions to the development and testing of web pages for Ph.D. students at UTN.
