@@ -68,13 +68,14 @@ Soy estudiante de Ingeniería en Sistemas de Información en UTN FRBA, enfocado 
 ## Cursos Relevantes
 
 - [Databases and SQL for Data Science with Python](https://coursera.org/share/806303f6f7e03980c997d4df66eb5e8f)
+- [Relational Database Administration (DBA)](https://coursera.org/share/b0cf37142b6394b921d9f2e4d198625d)
 - [Python for Data Science, AI & Development](https://coursera.org/share/13c61333c0f88ea52108695349c2f6dc)
-- [Introduction to Linux Commands and Shell Scripting](https://coursera.org/share/16a1742193fb879fc6089df48f6d2f0b)
 - [Python Project for Data Engineering](https://coursera.org/share/900a384a8668f42312efe6a9d69e0821)
+- [Introduction to Linux Commands and Shell Scripting](https://coursera.org/share/16a1742193fb879fc6089df48f6d2f0b)
 - [Introduction to Data Engineering](https://coursera.org/share/394be96fc631863522bb66d7fd24fb6d)
 - [Introduction to Relational Databases (RDBMS)](https://coursera.org/share/2dbe8e0f11bc5a7586b9e7f389fd000d)
 - ETL and Data Pipelines with Shell, Airflow and Kafka (en proceso)
-- Relational Database Administration (DBA) (en proceso)
+
 
 <br>
 
