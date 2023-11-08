@@ -10,7 +10,7 @@
 
 <br>
 
-<h1 class="subtitle" >Data Engineer</h1>
+<h1 class="subtitle" >Data Developer</h1>
 
 <br>
 
@@ -23,7 +23,7 @@
 - {LOCATION}
 </div>
 
-<br>
+
 
 ## PROFESSIONAL PROFILE
 
@@ -40,7 +40,7 @@ to tackle technical challenges. I am actively seeking opportunities to apply and
 
 - Universidad Tecnológica Nacional FRBA <br>
 
-<br>
+
 
 ## Experience
 
@@ -51,7 +51,7 @@ to tackle technical challenges. I am actively seeking opportunities to apply and
 - Implementation and maintenance of fiber optic networks (FTTH).
 - Electrical installations in residential buildings.
 
-<br>
+
 
 ## Skills
 
@@ -62,7 +62,7 @@ to tackle technical challenges. I am actively seeking opportunities to apply and
 - Familiarity with Linux environments and bash scripting.
 - Proficient use of Github and GitLab.
 
-<br>
+
 
 ## Relevant Courses
 
@@ -70,13 +70,17 @@ to tackle technical challenges. I am actively seeking opportunities to apply and
 - [Relational Database Administration (DBA)](https://coursera.org/share/b0cf37142b6394b921d9f2e4d198625d)
 - [Python for Data Science, AI & Development](https://coursera.org/share/13c61333c0f88ea52108695349c2f6dc)
 - AWS Cloud Practitioner Essentials (in progress)
-- ETL and Data Pipelines with Shell, Airflow and Kafka (in progress)
-- [Python Project for Data Engineering](https://coursera.org/share/900a384a8668f42312efe6a9d69e0821)
+- ETL and Data Pipelines with Shell, Airflow and Kafka (in progress) 
 - [Introduction to Linux Commands and Shell Scripting](https://coursera.org/share/16a1742193fb879fc6089df48f6d2f0b)
-- [Introduction to Data Engineering](https://coursera.org/share/394be96fc631863522bb66d7fd24fb6d)
-- [Introduction to Relational Databases (RDBMS)](https://coursera.org/share/2dbe8e0f11bc5a7586b9e7f389fd000d)
 
-<br>
+
+
+## Projects
+
+- [Desafio tecnico Data Engineer (in progress)](https://github.com/federicoamigo17/Proyecto-primer-ETL)
+- [My first ETL](https://github.com/federicoamigo17/Proyecto-primer-ETL)
+- [Python Project for Data Engineering](https://coursera.org/share/900a384a8668f42312efe6a9d69e0821)
+
 
 ## Volunteering
 
