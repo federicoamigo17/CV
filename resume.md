@@ -74,7 +74,7 @@ Soy estudiante de Ingeniería en Sistemas de Información en UTN FRBA, enfocado 
 
 ## Proyectos
 
-- [Desafio tecnico Data Engineer (en proceso)]()
+- [Desafio tecnico Data Engineer (en proceso)](https://github.com/federicoamigo17/Proyecto-primer-ETL)
 - [Mi primer ETL](https://github.com/federicoamigo17/Proyecto-primer-ETL)
 - [Python Project for Data Engineering](https://coursera.org/share/900a384a8668f42312efe6a9d69e0821)
 
