@@ -10,7 +10,7 @@
 
 <br>
 
-<h1 class="subtitle" >Data Engineer</h1>
+<h1 class="subtitle" >Data Developer</h1>
 
 <br>
 
@@ -29,7 +29,7 @@
 
 Soy estudiante de Ingeniería en Sistemas de Información en UTN FRBA, enfocado en el desarrollo de datos. Poseo habilidades sólidas en Python, con experiencia en SQL, PowerBI y Excel. Mi experiencia como Técnico en Telecomunicaciones y becario en un proyecto de investigación en ReactJS respalda mi capacidad para abordar desafíos técnicos. Activamente en busca de oportunidades que me permitan aplicar y ampliar mis conocimientos.
 
-<br>
+
 
 ## Formación Académica
 
@@ -38,7 +38,6 @@ Soy estudiante de Ingeniería en Sistemas de Información en UTN FRBA, enfocado 
 
 - Universidad Tecnológica Nacional FRBA <br>
 
-<br>
 
 ## Experiencia
 
@@ -48,8 +47,6 @@ Soy estudiante de Ingeniería en Sistemas de Información en UTN FRBA, enfocado 
 - Instalación y mantenimiento de sistemas de seguridad, cámaras IP, cámaras térmicas, sensores de movimiento y alarmas.
 - Implementación y mantenimiento de redes de fibra óptica (FTTH).
 - Instalaciones eléctricas en domicilios.
-
-<br>
 
 ## Habilidades
 
@@ -65,7 +62,6 @@ Soy estudiante de Ingeniería en Sistemas de Información en UTN FRBA, enfocado 
 
 - Uso de Github y GitLab.
 
-<br>
 
 ## Cursos Relevantes
 
@@ -74,14 +70,13 @@ Soy estudiante de Ingeniería en Sistemas de Información en UTN FRBA, enfocado 
 - [Python for Data Science, AI & Development](https://coursera.org/share/13c61333c0f88ea52108695349c2f6dc)
 - AWS Cloud Practitioner Essentials (en curso)
 - ETL and Data Pipelines with Shell, Airflow and Kafka (en proceso) 
-- [Python Project for Data Engineering](https://coursera.org/share/900a384a8668f42312efe6a9d69e0821)
 - [Introduction to Linux Commands and Shell Scripting](https://coursera.org/share/16a1742193fb879fc6089df48f6d2f0b)
-- [Introduction to Data Engineering](https://coursera.org/share/394be96fc631863522bb66d7fd24fb6d)
-- [Introduction to Relational Databases (RDBMS)](https://coursera.org/share/2dbe8e0f11bc5a7586b9e7f389fd000d)
 
+## Proyectos
 
-
-<br>
+- [Desafio tecnico Data Engineer (en proceso)]()
+- [Mi primer ETL](https://github.com/federicoamigo17/Proyecto-primer-ETL)
+- [Python Project for Data Engineering](https://coursera.org/share/900a384a8668f42312efe6a9d69e0821)
 
 ## Voluntariado
 
