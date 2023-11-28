@@ -83,3 +83,7 @@ Soy estudiante de Ingeniería en Sistemas de Información en UTN FRBA, enfocado 
 ### Desarrollador de React <br> Grupo de Investigación y Desarrollo en BIO Ingeniería<span class="spacer"></span> Marzo 2023 — Actualidad
 
 - Contribuciones al desarrollo y testing de páginas web para los estudiantes del doctorado en UTN.
+
+## Ingles   
+
+- Nivel B1 Certificado por Cambridge
