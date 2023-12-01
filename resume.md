@@ -72,7 +72,7 @@ Soy estudiante de Ingeniería en Sistemas de Información en UTN FRBA, enfocado 
 
 ### UTN: Grupo de Investigación y Desarrollo en BIO Ingeniería<span class="spacer"></span> Marzo 2023 — Actualidad
 
-- Desarrollé de manera integral una plataforma web para informes de avance de doctorado para UTN
+- [Desarrollé de manera integral una plataforma web para informes de avance de doctorado para UTN](https://federicoamigo17.000webhostapp.com/)
 - Fui responsable del frontend (ReactJS) y backend(HTML y CSS).
 - Implementé generación y descarga eficientes de informes en formato PDF.
 - Mejoré la eficiencia del proceso de informes y contribuí al éxito del programa de doctorado.
