@@ -1,4 +1,3 @@
-@REDACTED=false
 @NAME=Federico Amigo
 @EMAIL=federicoamigo17@gmail.com
 @PHONE=1121644198
@@ -8,11 +7,7 @@
 
 # {NAME}
 
-<br>
-
 <h1 class="subtitle" >Data Developer</h1>
-
-<br>
 
 <div class="section headerInfo">
 
@@ -23,13 +18,9 @@
 - {LOCATION}
 </div>
 
-<br>
-
 ## PERFIL PROFESIONAL
 
-Soy estudiante de Ingeniería en Sistemas de Información en UTN FRBA, enfocado en el desarrollo de datos. Poseo habilidades sólidas en Python, con experiencia en SQL, PowerBI y Excel. Mi experiencia como Técnico en Telecomunicaciones y becario en un proyecto de investigación en ReactJS respalda mi capacidad para abordar desafíos técnicos. Activamente en busca de oportunidades que me permitan aplicar y ampliar mis conocimientos.
-
-
+Soy estudiante de Ingeniería en Sistemas de Información en UTN FRBA, enfocado en el desarrollo de datos. Mi experiencia como Técnico en Telecomunicaciones y becario en un proyecto de investigación respalda mi capacidad para abordar desafíos técnicos. Activamente en busca de oportunidades que me permitan aplicar y ampliar mis conocimientos.
 
 ## Formación Académica
 
@@ -41,12 +32,11 @@ Soy estudiante de Ingeniería en Sistemas de Información en UTN FRBA, enfocado 
 
 ## Experiencia
 
-### Técnico en Telecomunicaciones, CTeAr SA <span class="spacer"></span> Oct 2021 &mdash; Ago 2022
+### Técnico en Telecomunicaciones, CTeAr SA <span class="spacer"></span> Oct 2021 &mdash; Dic 2022
 
-- Administración y configuración de redes y dispositivos como Mikrotik, routers y switches.
-- Instalación y mantenimiento de sistemas de seguridad, cámaras IP, cámaras térmicas, sensores de movimiento y alarmas.
+- Administración y configuración de redes y dispositivos: Mikrotik, diversos routers y switches.
+- Instalación y mantenimiento de sistemas de seguridad: cámaras IP y térmicas, sensores de movimiento y alarmas.
 - Implementación y mantenimiento de redes de fibra óptica (FTTH).
-- Instalaciones eléctricas en domicilios.
 
 ## Habilidades
 
@@ -78,11 +68,15 @@ Soy estudiante de Ingeniería en Sistemas de Información en UTN FRBA, enfocado 
 - [Mi primer ETL](https://github.com/federicoamigo17/Proyecto-primer-ETL)
 - [Python Project for Data Engineering](https://coursera.org/share/900a384a8668f42312efe6a9d69e0821)
 
-## Voluntariado
+## Voluntariado: Desarrollador Fullstack
 
-### Desarrollador de React <br> Grupo de Investigación y Desarrollo en BIO Ingeniería<span class="spacer"></span> Marzo 2023 — Actualidad
+### UTN: Grupo de Investigación y Desarrollo en BIO Ingeniería<span class="spacer"></span> Marzo 2023 — Actualidad
 
-- Contribuciones al desarrollo y testing de páginas web para los estudiantes del doctorado en UTN.
+- Desarrollé de manera integral una plataforma web para informes de avance de doctorado para UTN
+- Fui responsable del frontend (ReactJS) y backend(HTML y CSS).
+- Implementé generación y descarga eficientes de informes en formato PDF.
+- Mejoré la eficiencia del proceso de informes y contribuí al éxito del programa de doctorado.
+- La plataforma se utiliza activamente y ha tenido un impacto positivo en el proceso de informes para los estudiantes de doctorado.
 
 ## Ingles   
 
