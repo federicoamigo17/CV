@@ -70,7 +70,7 @@ I am a student of Software Engineering at UTN FRBA, with a focus on data develop
 
 ### React Developer <br> Grupo de Investigación y Desarrollo en BIO Ingeniería<span class="spacer"></span> Mar 2023 — Present
 
-- I comprehensively developed a web platform for doctoral progress reports at UTN.
+- [I comprehensively developed a web platform for doctoral progress reports at UTN.](https://federicoamigo17.000webhostapp.com/)
 - I was responsible for both the frontend (ReactJS) and backend (HTML and CSS).
 - Implemented efficient generation and download of reports in PDF format.
 - Enhanced the efficiency of the reporting process and contributed to the success of the doctoral program.
