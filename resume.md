@@ -8,11 +8,7 @@
 
 # {NAME}
 
-<br>
-
 <h1 class="subtitle" >Data Developer</h1>
-
-<br>
 
 <div class="section headerInfo">
 
@@ -27,12 +23,7 @@
 
 ## PROFESSIONAL PROFILE
 
-I am a student of Information Systems Engineering at UTN FRBA, focusing on data development. I possess
-strong skills in Python, with experience in SQL, PowerBI, and Excel. My background as a
-Telecommunications Technician and my role as a research project intern in ReactJS demonstrate my ability
-to tackle technical challenges. I am actively seeking opportunities to apply and expand my knowledge.
-
-<br>
+I am a student of Software Engineering at UTN FRBA, with a focus on data development. My experience as a Telecommunications Technician and as a research project intern supports my ability to tackle technical challenges. Actively seeking opportunities that allow me to apply and expand my knowledge
 
 ## Education
 
@@ -40,18 +31,13 @@ to tackle technical challenges. I am actively seeking opportunities to apply and
 
 - Universidad Tecnológica Nacional FRBA <br>
 
-
-
 ## Experience
 
 ### Telecommunications Technician, CTeAr SA <span class="spacer"></span> Oct 2021 &mdash; Aug 2022
 
-- Network and device administration, including Mikrotik, routers, and switches.
-- Installation and maintenance of security systems, IP cameras, thermal cameras, motion sensors, and alarms.
+- Network and device administration: Mikrotik, routers, and switches.
+- Installation and maintenance of security systems, IP and thermal cameras, motion sensors, and alarms.
 - Implementation and maintenance of fiber optic networks (FTTH).
-- Electrical installations in residential buildings.
-
-
 
 ## Skills
 
@@ -61,8 +47,6 @@ to tackle technical challenges. I am actively seeking opportunities to apply and
 - Orchestrating pipelines with Airflow.
 - Familiarity with Linux environments and bash scripting.
 - Proficient use of Github and GitLab.
-
-
 
 ## Relevant Courses
 
@@ -86,4 +70,8 @@ to tackle technical challenges. I am actively seeking opportunities to apply and
 
 ### React Developer <br> Grupo de Investigación y Desarrollo en BIO Ingeniería<span class="spacer"></span> Mar 2023 — Present
 
-- Contributions to the development and testing of web pages for Ph.D. students at UTN.
+- I comprehensively developed a web platform for doctoral progress reports at UTN.
+- I was responsible for both the frontend (ReactJS) and backend (HTML and CSS).
+- Implemented efficient generation and download of reports in PDF format.
+- Enhanced the efficiency of the reporting process and contributed to the success of the doctoral program.
+- The platform is actively used and has had a positive impact on the reporting process for doctoral students.
