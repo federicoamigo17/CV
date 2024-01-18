@@ -50,11 +50,13 @@ I am a student of Software Engineering at UTN FRBA, with a focus on data develop
 
 ## Relevant Courses
 
-- [ETL and Data Pipelines with Shell, Airflow and Kafka](https://coursera.org/share/1264932413270e2d5fc5db3a16b9d172)
-- [Databases and SQL for Data Science with Python](https://coursera.org/share/806303f6f7e03980c997d4df66eb5e8f)
-- [Relational Database Administration (DBA)](https://coursera.org/share/b0cf37142b6394b921d9f2e4d198625d)
+- IBM Data Warehouse Engineer (7/8) 
+    - [ETL and Data Pipelines with Shell, Airflow and Kafka](https://coursera.org/share/1264932413270e2d5fc5db3a16b9d172)
+    - [Databases and SQL for Data Science with Python](https://coursera.org/share/806303f6f7e03980c997d4df66eb5e8f)
+    - [Relational Database Administration (DBA)](https://coursera.org/share/b0cf37142b6394b921d9f2e4d198625d)
+    - [Python for Data Science, AI & Development](https://coursera.org/share/13c61333c0f88ea52108695349c2f6dc)
 - AWS Cloud Practitioner Essentials (in progress)
-- [Python for Data Science, AI & Development](https://coursera.org/share/13c61333c0f88ea52108695349c2f6dc)
+
 - [Introduction to Linux Commands and Shell Scripting](https://coursera.org/share/16a1742193fb879fc6089df48f6d2f0b)
 
 
