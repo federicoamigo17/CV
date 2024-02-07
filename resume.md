@@ -44,14 +44,11 @@ Soy estudiante de Ingeniería en Sistemas de Información en UTN FRBA, enfocado 
 
 - Python: Manipulacion de bases de datos, analisis y automatizacion de procesos.
 
-- Familiaridad con AWS
+- Familiaridad con AWS: Glue, Redshift, Lambda, S3.
 
-- Orquestado de pipelines con Airflow.
+- Orquestado de pipelines con Airflow, Kafka y Glue.
 
 - Uso de Github y GitLab con ambientes en Linux y scripts en bash.
-
-- Uso de Github y GitLab.
-
 
 ## Cursos Relevantes
 
